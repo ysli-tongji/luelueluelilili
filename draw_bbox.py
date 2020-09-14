@@ -4,7 +4,7 @@ Created on Tue Dec  3 10:04:20 2019
 
 @author: lenovo
 """
-
+import pand
 import os
 import cv2 as cv
 import pandas as pd
