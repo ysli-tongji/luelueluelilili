@@ -240,4 +240,4 @@ for classname in classnames:
         aps.append(ap)
     results[classname] = aps
 results.to_csv(r'F:\IEEE_car\car_data\total_data\test\evaluation\results.csv')
-#rec,prec可以用于绘制ROC曲线
+#rec,prec可以用于绘制ROC图
